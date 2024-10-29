@@ -1,4 +1,4 @@
-# Название проекта
+# Data Driven Tools at ITMO University
 
 Этот репозиторий создан в рамках курса ITMO Data Driven Tools 2024.
 
