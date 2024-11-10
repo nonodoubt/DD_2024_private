@@ -1,0 +1,26 @@
+--2024-11-07 23:06:18--  ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR292/SRR292678/SRR292678_1.fastq.gz
+           => ‘SRR292678_1.fastq.gz’
+Resolving ftp.sra.ebi.ac.uk (ftp.sra.ebi.ac.uk)... 193.62.193.165
+Connecting to ftp.sra.ebi.ac.uk (ftp.sra.ebi.ac.uk)|193.62.193.165|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /vol1/fastq/SRR292/SRR292678 ... done.
+==> SIZE SRR292678_1.fastq.gz ... 498709208
+==> PASV ... done.    ==> RETR SRR292678_1.fastq.gz ... done.
+Length: 498709208 (476M) (unauthoritative)
+
+
+
+2024-11-07 23:36:47 (266 KB/s) - Control connection closed.
+Retrying.
+
+--2024-11-08 13:11:16--  ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR292/SRR292678/SRR292678_1.fastq.gz
+  (try: 2) => ‘SRR292678_1.fastq.gz’
+Connecting to ftp.sra.ebi.ac.uk (ftp.sra.ebi.ac.uk)|193.62.193.165|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /vol1/fastq/SRR292/SRR292678 ... done.
+==> SIZE SRR292678_1.fastq.gz ... 498709208
+File has already been retrieved.
+2024-11-08 13:11:16 (0.00 B/s) - ‘SRR292678_1.fastq.gz’ saved [498709208]
+

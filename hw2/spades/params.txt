@@ -1,0 +1,36 @@
+Command line: /home/samnumbula/anaconda3/envs/spades/bin/spades.py	-1	/home/samnumbula/data_driven_2024/data_driven_2024/hw2/reads/SRR292678_1.fastq.gz	-2	/home/samnumbula/data_driven_2024/data_driven_2024/hw2/reads/SRR292678_2.fastq.gz	-o	/home/samnumbula/data_driven_2024/data_driven_2024/hw2/spades	
+
+System information:
+  SPAdes version: 3.13.0
+  Python version: 3.8.20
+  OS: Linux-4.4.0-19041-Microsoft-x86_64-with-glibc2.17
+
+Output dir: /home/samnumbula/data_driven_2024/data_driven_2024/hw2/spades
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/samnumbula/data_driven_2024/data_driven_2024/hw2/reads/SRR292678_1.fastq.gz']
+      right reads: ['/home/samnumbula/data_driven_2024/data_driven_2024/hw2/reads/SRR292678_2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/samnumbula/data_driven_2024/data_driven_2024/hw2/spades/tmp
+  Threads: 16
+  Memory limit (in Gb): 14
+
