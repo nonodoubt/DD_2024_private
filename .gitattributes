@@ -1,0 +1,1 @@
+hw3/test_input/*.fastq.gz filter=lfs diff=lfs merge=lfs -text

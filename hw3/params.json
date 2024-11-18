@@ -1,0 +1,19 @@
+{
+  "quast": {
+      "reference": "references/genome.fasta"  
+  },
+  "spades": {
+      "memory": "16",
+      "threads": 4
+  },
+  "global_params": {
+      "threads": 4
+  },
+  "prokka": {
+      "genus": "Escherichia",
+      "outdir": "prokka_output"
+  },
+  "abricate": {
+      "database": "resfinder"
+  }
+}

@@ -1,0 +1,32 @@
+Command line: /home/samnumbula/DD_2024_private/hw3/.snakemake/conda/7023120af6e37459b9e8f00d5a1bc314_/bin/spades.py	-1	/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_1.fastq.gz	-2	/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_2.fastq.gz	-o	/home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades	--threads	4	--memory	16	--isolate	
+
+System information:
+  SPAdes version: 3.15.3
+  Python version: 3.9.20
+  OS: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39
+
+Output dir: /home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Isolate mode
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_1.fastq.gz']
+      right reads: ['/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades/tmp
+  Threads: 4
+  Memory limit (in Gb): 16
+

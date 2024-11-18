@@ -1,0 +1,65 @@
+‰---
+max read length: 90
+nomerge max read length: 90
+average read length: 90
+average coverage: 77.2347
+libraries:
+  - type:            paired-end
+    number:          1
+    orientation:     fr
+    left reads:
+      - '/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_1.fastq.gz'
+    right reads:
+      - '/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_2.fastq.gz'
+    data:
+      unmerged read length: 90
+      merged read length: 0
+      insert size mean: 468.965
+      insert size deviation: 14.7005
+      insert size left quantile: 450
+      insert size right quantile: 486
+      insert size median: 470
+      insert size mad: 8
+      insert size distribution: { 411: 480, 412: 475, 413: 659, 414: 679, 
+                                  415: 757, 416: 903, 417: 1006, 418: 1127, 
+                                  419: 1347, 420: 1532, 421: 1757, 422: 2024, 
+                                  423: 2350, 424: 2676, 425: 3024, 426: 3425, 
+                                  427: 3782, 428: 4298, 429: 4731, 430: 5243, 
+                                  431: 5632, 432: 6438, 433: 6897, 434: 7292, 
+                                  435: 7790, 436: 8563, 437: 9092, 438: 10094, 
+                                  439: 10365, 440: 11288, 441: 11662, 442: 12628, 
+                                  443: 13310, 444: 14420, 445: 15279, 446: 16139, 
+                                  447: 17538, 448: 18609, 449: 20408, 450: 22038, 
+                                  451: 24117, 452: 26160, 453: 28754, 454: 31812, 
+                                  455: 35299, 456: 38510, 457: 42678, 458: 46758, 
+                                  459: 51516, 460: 55809, 461: 60819, 462: 65586, 
+                                  463: 69506, 464: 74535, 465: 77978, 466: 81316, 
+                                  467: 85320, 468: 87515, 469: 89230, 470: 90360, 
+                                  471: 89909, 472: 90059, 473: 88845, 474: 87061, 
+                                  475: 84721, 476: 80823, 477: 77472, 478: 73527, 
+                                  479: 69170, 480: 65783, 481: 61510, 482: 56941, 
+                                  483: 52422, 484: 48408, 485: 44249, 486: 40453, 
+                                  487: 36829, 488: 33059, 489: 29799, 490: 26312, 
+                                  491: 23339, 492: 20561, 493: 17499, 494: 15387, 
+                                  495: 13317, 496: 11254, 497: 9372, 498: 7902, 
+                                  499: 6420, 500: 5312, 501: 4366, 502: 3602, 
+                                  503: 2800, 504: 2383, 505: 1747, 506: 1406, 
+                                  507: 1062, 508: 856, 509: 622, 510: 459, 
+                                  511: 355, 512: 246, 513: 188, 514: 129, 
+                                  515: 111, 516: 77, 517: 41, 518: 35, 
+                                  519: 26, 520: 20, 521: 14, 522: 11, 523: 7, 
+                                  524: 3, 525: 4, 526: 2, 527: 3, 528: 2, 
+                                  529: 3 }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades/.bin_reads/INFO_0'
+        paired read prefix: '/home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades/.bin_reads/paired_0'
+        merged read prefix: '/home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades/.bin_reads/merged_0'
+        single read prefix: '/home/samnumbula/DD_2024_private/hw3/test_output/SRR292678_spades/.bin_reads/single_0'
+        chunk num:       4
+      single reads mapped: false
+      library index:   0
+      number of reads: 12222224
+      total nucleotides: 1100000160
+...

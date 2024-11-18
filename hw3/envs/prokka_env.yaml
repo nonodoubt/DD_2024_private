@@ -1,0 +1,10 @@
+name: prokka_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - prokka>=1.14
+  - blast>=2.9
+  - kraken2
+  - boost=1.70

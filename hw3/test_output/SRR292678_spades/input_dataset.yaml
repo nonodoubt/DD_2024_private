@@ -1,0 +1,7 @@
+- "left reads":
+  - "/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_1.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_2.fastq.gz"
+  "type": "paired-end"

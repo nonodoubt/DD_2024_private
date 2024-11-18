@@ -1,0 +1,9 @@
+name: spades_env
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - spades=3.15.3
+  - pyyaml

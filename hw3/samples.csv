@@ -1,0 +1,3 @@
+sample_id,read_1,read_2,assembly
+SRR292862,/home/samnumbula/DD_2024_private/hw3/test_input/SRR292862_1.fastq.gz,/home/samnumbula/DD_2024_private/hw3/test_input/SRR292862_2.fastq.gz,/home/samnumbula/DD_2024_private/hw3/test_input/contigs.fasta/
+SRR292678,/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_1.fastq.gz,/home/samnumbula/DD_2024_private/hw3/test_input/SRR292678_2.fastq.gz,

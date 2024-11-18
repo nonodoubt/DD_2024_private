@@ -1,0 +1,147 @@
+import json
+import pandas as pd
+import os
+
+# Загрузка параметров из params.json
+with open("params.json") as f:
+    params = json.load(f)
+
+# Загрузка образцов из samples.csv
+samples = pd.read_csv("samples.csv")
+
+# Правило all, которое описывает конечный результат пайплайна
+rule all:
+    input:
+        # FastQC и SPAdes только для образцов без assembly
+        expand(
+            "test_output/{sample_id}_1_fastqc.html", 
+            sample_id=samples[samples['assembly'].isna()]["sample_id"]
+        ),
+        expand(
+            "test_output/{sample_id}_2_fastqc.html", 
+            sample_id=samples[samples['assembly'].isna()]["sample_id"]
+        ),
+        expand(
+            "test_output/{sample_id}_spades/contigs.fasta", 
+            sample_id=samples[samples['assembly'].isna()]["sample_id"]
+        ),
+        # QUAST для всех образцов
+        expand(
+            "test_output/{sample_id}_quast/report.html", 
+            sample_id=samples["sample_id"]
+        ),
+        # Prokka и Abricate для всех образцов
+        expand(
+            "test_output/{sample_id}_prokka/{sample_id}.gff", 
+            sample_id=samples["sample_id"]
+        ),
+        expand(
+            "test_output/{sample_id}_abricate_results.txt", 
+            sample_id=samples["sample_id"]
+        )
+
+
+# Шаг 1: Контроль качества ридов с FastQC
+rule fastqc:
+    input:
+        r1 = lambda wildcards: samples[samples['sample_id'] == wildcards.sample_id]['read_1'].values[0],
+        r2 = lambda wildcards: samples[samples['sample_id'] == wildcards.sample_id]['read_2'].values[0]
+    output:
+        "test_output/{sample_id}_1_fastqc.html",
+        "test_output/{sample_id}_2_fastqc.html"
+    params:
+        fastqc_outdir = "test_output"
+    threads: params["global_params"]["threads"]
+    conda:
+        "envs/fastqc_env.yaml"
+    shell:
+        """
+        fastqc {input.r1} {input.r2} --outdir {params.fastqc_outdir} --extract
+        """
+
+
+# Шаг 2: Сборка генома с SPAdes (если contigs.fasta отсутствует)
+rule spades:
+    input:
+        r1 = lambda wildcards: samples[samples['sample_id'] == wildcards.sample_id]['read_1'].values[0],
+        r2 = lambda wildcards: samples[samples['sample_id'] == wildcards.sample_id]['read_2'].values[0]
+    output:
+        "test_output/{sample_id}_spades/contigs.fasta"
+    params:
+        spades_outdir = "test_output/{sample_id}_spades",
+        memory = params["spades"]["memory"]
+    threads: params["spades"]["threads"]
+    conda:
+        "envs/spades_env.yaml"
+    shell:
+        "spades.py -1 {input.r1} -2 {input.r2} -o {params.spades_outdir} --threads {threads} --memory {params.memory} --isolate"
+
+
+# Шаг 3: Оценка качества сборки с QUAST
+rule quast:
+    input:
+       assembly=lambda wildcards: (
+            samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0]
+            if not pd.isna(samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0])
+            else f"test_output/{wildcards.sample_id}_spades/contigs.fasta"
+        )  # Путь к файлу контегов из SPAdes или из test_input, если assembly указан
+    output:
+        "test_output/{sample_id}_quast/report.html"
+    params:
+        reference = params['quast']['reference'],  # Здесь может быть путь к референсному геному
+    threads: params["global_params"]["threads"]
+    conda:
+        "envs/quast_env.yaml"
+    shell:
+        """
+        if [ -f {params.reference} ]; then
+            echo 'Running QUAST with reference genome: {params.reference}' && quast.py {input.assembly} -o test_output/{wildcards.sample_id}_quast --threads {threads} --reference {params.reference};
+        else
+            echo 'Running QUAST without reference genome' && quast.py {input.assembly} -o test_output/{wildcards.sample_id}_quast --threads {threads};
+        fi
+        """
+
+
+# Шаг 4: Аннотация генома с Prokka
+rule prokka:
+    input:
+        # Если есть assembly, берем из test_input, иначе используем contigs.fasta из test_output
+        assembly=lambda wildcards: (
+            samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0]
+            if not pd.isna(samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0])
+            else f"test_output/{wildcards.sample_id}_spades/contigs.fasta"
+        )
+    output:
+        "test_output/{sample_id}_prokka/{sample_id}.gff"
+    params:
+        genus=params["prokka"]["genus"],
+        outdir=lambda wildcards: f"test_output/{wildcards.sample_id}_prokka"
+    threads: params["global_params"]["threads"]
+    conda:
+        "envs/prokka_env.yaml"
+    shell:
+        """
+        prokka --genus {params.genus} --outdir {params.outdir} --prefix {wildcards.sample_id} \
+               --cpus {threads} {input.assembly} --force
+        """
+
+
+# Шаг 5: Поиск генов устойчивости и вирулентности с Abricate
+rule abricate:
+    input:
+        # Если есть assembly, берем из test_input, иначе используем contigs.fasta из test_output
+        assembly=lambda wildcards: (
+            samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0]
+            if not pd.isna(samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0])
+            else f"test_output/{wildcards.sample_id}_spades/contigs.fasta"
+        )
+    output:
+        "test_output/{sample_id}_abricate_results.txt"
+    params:
+        database=params['abricate']['database']
+    conda:
+        "envs/abricate_env.yaml"
+    shell:
+        """
+        abricate --db {params.database} {input.assembly} > {output}
+        """
