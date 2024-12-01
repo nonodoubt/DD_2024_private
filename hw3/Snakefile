@@ -84,11 +84,11 @@ rule quast:
             samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0]
             if not pd.isna(samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0])
             else f"test_output/{wildcards.sample_id}_spades/contigs.fasta"
-        )  # Путь к файлу контегов из SPAdes или из test_input, если assembly указан
+        )
     output:
         "test_output/{sample_id}_quast/report.html"
     params:
-        reference = params['quast']['reference'],  # Здесь может быть путь к референсному геному
+        reference = params['quast']['reference'],
     threads: params["global_params"]["threads"]
     conda:
         "envs/quast_env.yaml"
@@ -105,7 +105,6 @@ rule quast:
 # Шаг 4: Аннотация генома с Prokka
 rule prokka:
     input:
-        # Если есть assembly, берем из test_input, иначе используем contigs.fasta из test_output
         assembly=lambda wildcards: (
             samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0]
             if not pd.isna(samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0])
@@ -129,7 +128,6 @@ rule prokka:
 # Шаг 5: Поиск генов устойчивости и вирулентности с Abricate
 rule abricate:
     input:
-        # Если есть assembly, берем из test_input, иначе используем contigs.fasta из test_output
         assembly=lambda wildcards: (
             samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0]
             if not pd.isna(samples.loc[samples['sample_id'] == wildcards.sample_id, 'assembly'].values[0])

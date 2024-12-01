@@ -4,7 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - prokka>=1.14
-  - blast>=2.9
-  - kraken2
-  - boost=1.70
+  - prokka=1.14
+  - perl=5.26.2
+  - parallel=20180522
+channel_priority: flexible
