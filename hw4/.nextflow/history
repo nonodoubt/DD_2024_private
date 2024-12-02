@@ -1,0 +1,247 @@
+2024-11-18 18:38:59	-	distraught_sax	-	b8b3fac5fd8b06537bb32bd8ac0874d3	1c426ae9-49ce-49da-a2ba-54218cc41db1	nextflow main.nf
+2024-11-18 18:40:02	-	exotic_turing	-	73a201914833d8bed981c708c605ac8b	4061dda6-eaed-460a-ba68-a60aef6e582b	nextflow main.nf
+2024-11-18 18:41:08	-	loving_mercator	-	ed37a1820c5b825fd14484183295d899	075ba8c8-d4ad-477a-a260-1045f390cb06	nextflow main.nf
+2024-11-18 18:42:47	-	cranky_jepsen	-	a6579f19ced3d0a955935dd9ca982da9	67838ed8-07d4-4574-8fc0-3f34a02f6f78	nextflow run main.nf
+2024-11-18 18:44:33	-	confident_becquerel	-	a6579f19ced3d0a955935dd9ca982da9	1ab1b36e-1936-4b5f-84ce-f20ebf9237f6	nextflow run main.nf
+2024-11-18 18:46:57	-	fabulous_elion	-	48cfe0012b9847fe743d0b52e53dda5c	cd74adc9-ddf1-44f4-b09f-1a4c034f1e3a	nextflow run main.nf
+2024-11-18 18:49:36	-	fervent_varahamihira	-	48cfe0012b9847fe743d0b52e53dda5c	3553d098-673c-4eb8-84f7-9582c541bbf2	nextflow run main.nf
+2024-11-18 21:42:57	-	adoring_stonebraker	-	51800756d4951d2b31ed6b868e61e55d	486ded25-e1b0-4d5b-b9cd-d4078c1b3a47	nextflow run main.nf
+2024-11-18 21:59:44	-	awesome_knuth	-	51800756d4951d2b31ed6b868e61e55d	5bde1e9f-43e8-4ea0-afc7-b4ca651a3d72	nextflow run main.nf
+2024-11-18 22:02:21	-	angry_lamarr	-	96ecbbe313bc79329fa51dcd62c650df	36d16749-9f6e-4618-9adf-d09411fd8dce	nextflow run main.nf
+2024-11-18 22:04:05	-	fervent_kalam	-	1a1965ad42a1d68fcf06cf6cc450e8d5	28a07aaa-bfd9-445c-a6e1-0123fe745cc6	nextflow run main.nf
+2024-11-18 22:05:52	-	cheeky_torvalds	-	4a053c59860b6308103a054a68f023a8	c492e904-9c61-473f-a099-1f80095a7874	nextflow run main.nf
+2024-11-18 22:07:47	-	thirsty_boyd	-	7a22aa77fb73c430603ca88d866ee0cb	48041735-a61a-4b42-9017-5ffbd292e5c0	nextflow run main.nf
+2024-11-18 22:09:01	-	pedantic_banach	-	b1dc73a9aaa8e93afffe41c22609d3d0	a49eda6e-b819-4040-95c4-58a1a61091ea	nextflow run main.nf
+2024-11-18 22:12:00	-	reverent_nightingale	-	9cfdd87461b09a0a1bc6e529df980919	caf2da16-5588-4a90-a2da-2874d3d26bba	nextflow run main.nf
+2024-11-18 22:27:50	-	pedantic_pesquet	-	7d98cfa4020eec734f261298f81f2656	7b225a6b-fdf3-48a9-ab0f-685219ee1319	nextflow run main.nf
+2024-11-18 22:33:29	-	soggy_lalande	-	13cf89976b3bcc381996930e7c6001f0	5d88836b-7c56-46d8-ade5-3c6f3a8141eb	nextflow run main.nf
+2024-11-18 22:38:18	-	nasty_mandelbrot	-	7b963aba244ad1b4c691ee743f73ac6b	bf61addb-57dd-4e14-ba69-b04e74b06343	nextflow run main.nf
+2024-11-18 22:41:59	-	elegant_hamilton	-	7b963aba244ad1b4c691ee743f73ac6b	00680852-6da1-4687-9be4-1138fff8f90b	nextflow main.nf
+2024-11-18 22:47:57	-	naughty_fermi	-	27a45f9fc4b66f885151844a29eef0d5	49bbd9ed-2a0b-407e-ac0e-b5f603b64091	nextflow main.nf
+2024-11-18 22:48:52	-	admiring_knuth	-	27a45f9fc4b66f885151844a29eef0d5	501a2f32-d677-4544-adad-8b1868b5ce05	nextflow run main.nf
+2024-11-18 22:49:18	-	determined_lavoisier	-	27a45f9fc4b66f885151844a29eef0d5	065d0240-82af-41f8-9b1b-74b3bccb7b40	nextflow run main.nf
+2024-11-18 23:02:25	-	small_coulomb	-	f5c611b319b708c010fcc967206fc2f0	8c35e5a4-070a-4b70-a184-d8683ff02641	nextflow run main.nf
+2024-11-18 23:03:24	-	berserk_lavoisier	-	a87d37013e64316633bf662634b98997	2d79601a-223c-4320-b9fc-301b9889b04b	nextflow run main.nf
+2024-11-18 23:14:44	2.1s	soggy_kowalevski	OK	8b7b90cdc517c683f746675a0e619167	f89e380d-fe01-4328-af9c-76fbeb99df7d	nextflow run main.nf
+2024-11-18 23:16:37	4.7s	maniac_becquerel	OK	8b7b90cdc517c683f746675a0e619167	50cf92a8-fac0-4053-8df4-100c9f9c21fd	nextflow run main.nf
+2024-11-18 23:17:15	-	compassionate_gilbert	-	71fc80fc140fdfe1128e1effc12763e6	cf119d46-61e1-426b-aa1f-fcdad20e4045	nextflow run main.nf
+2024-11-18 23:18:36	-	agitated_babbage	-	fc13692a49d8227877c211a1f3ce1421	5a14c7b0-4a8f-43c6-b198-f944b997b14c	nextflow run main.nf
+2024-11-20 13:56:18	-	small_archimedes	-	fc13692a49d8227877c211a1f3ce1421	55840776-7f20-42c1-a773-33b0f214d4fc	nextflow run main.nf
+2024-11-20 14:00:50	-	zen_watson	-	29decbfa1e2fa94da6e15c422441fa87	072fffc3-8015-412b-88ab-9e38d5908bf9	nextflow run main.nf
+2024-11-20 14:07:13	-	cheeky_bell	-	0fd10e0aa9783dd1d60bf26e2028bf15	475b6baf-915e-4c73-b922-a7433dc3bf9f	nextflow run main.nf
+2024-11-20 14:07:58	-	voluminous_solvay	-	a770b6c7f45884420ebf125c6b395cbc	e83ee9f9-9614-480d-8481-a853e569f787	nextflow run main.nf
+2024-11-20 14:23:33	-	grave_golick	-	65dedbb7cf7c48d4f344524ed21fb0de	e575322d-3328-4216-abe7-1b0aee35b294	nextflow run main.nf
+2024-11-20 14:24:03	-	drunk_pesquet	-	65dedbb7cf7c48d4f344524ed21fb0de	f14be33e-bc34-46c5-9e62-4ec9aaacc3ea	nextflow run main.nf --samples samples.csv
+2024-11-20 14:27:40	-	naughty_cajal	-	d3c09d73a474ae0508516978bad29f88	0a708a0b-0975-4019-9d39-3b2d569affab	nextflow run main.nf
+2024-11-20 15:25:11	-	sharp_stonebraker	-	d3c09d73a474ae0508516978bad29f88	e274a35e-b2b7-45d9-ab09-def9610ee123	nextflow run main.nf
+2024-11-20 15:33:31	-	gloomy_leakey	-	d3c09d73a474ae0508516978bad29f88	27bf27d0-4069-4a1f-80ab-3d4219b81562	nextflow run main.nf --samples samples.csv
+2024-11-20 15:35:29	-	stupefied_shirley	-	c6ff3171163cea093ef65b7f134e59d5	66d2eb80-cb18-4a7d-8529-56875ee1cf5c	nextflow run main.nf --samples samples.csv
+2024-11-20 15:35:54	-	shrivelled_mahavira	-	c6ff3171163cea093ef65b7f134e59d5	e5222952-06dd-4ac3-b3f2-8539348f5c9e	nextflow run main.nf
+2024-11-20 15:40:59	-	confident_curry	-	d4805da528cb0313417cc0f0a69cbe59	d88470c7-6d28-48fa-ab11-91abda07ba00	nextflow run main.nf
+2024-11-20 15:41:23	-	voluminous_chandrasekhar	-	d4805da528cb0313417cc0f0a69cbe59	4f1689df-9e4f-4583-a4ee-b3a3740406e5	nextflow run main.nf --samples samples.csv
+2024-11-20 15:47:06	-	curious_gates	-	d4805da528cb0313417cc0f0a69cbe59	bb5f6e81-51d3-4514-91eb-410eb6006fb3	nextflow run main.nf --samples samples.csv
+2024-11-20 15:53:34	-	hungry_tuckerman	-	49890ca9fc01ab385fa115729fde6813	4c47ac8f-a8b2-4393-a23b-22247396e951	nextflow run main.nf --samples samples.csv
+2024-11-20 15:53:55	-	compassionate_bohr	-	49890ca9fc01ab385fa115729fde6813	b4ad5bfe-26d3-4040-88fd-63e75d65438d	nextflow run main.nf
+2024-11-20 15:58:05	-	goofy_ritchie	-	b080233db8bfa96b67b7b54e5ffe3a46	54ea07da-a2d9-4ae8-bf8d-26cd823e2e80	nextflow run main.nf
+2024-11-20 15:58:33	-	prickly_murdock	-	b080233db8bfa96b67b7b54e5ffe3a46	0177995f-79db-4a9d-96f3-da791d0afff1	nextflow run main.nf --samples samples.csv
+2024-11-20 15:59:40	-	backstabbing_cray	-	b080233db8bfa96b67b7b54e5ffe3a46	b63679c1-31e4-4a4c-bf97-f543f3bf16b3	nextflow run main.nf --samples samples.csv
+2024-11-20 16:10:14	1.5s	furious_yonath	OK	66d51082d73ae7d3a69d9391a68ebc40	14b7f488-b928-4b87-85ac-e66631cf0aa5	nextflow run main.nf --samples samples.csv
+2024-11-20 16:10:40	779ms	nasty_swanson	OK	66d51082d73ae7d3a69d9391a68ebc40	10067919-7aa3-4fd2-96ec-de5cab13a404	nextflow run main.nf
+2024-11-20 16:11:46	-	irreverent_ramanujan	-	13e9ce50a23d186e56ed4d60aa258eef	6e9d7ac4-b9bd-40ad-bacf-7a32f2393f25	nextflow run main.nf
+2024-11-20 16:15:17	-	voluminous_carlsson	-	94e8b3a448dafb79eb8ef3da5c0e4524	9a44ab80-7c28-4bd3-9878-a39baac5e270	nextflow run main.nf
+2024-11-20 16:18:13	-	mighty_leavitt	-	62bebab17bb89911b3f907ba00116476	19ccd1ad-7467-42d6-b5cb-51677081e1cd	nextflow run main.nf
+2024-11-20 16:31:02	-	hopeful_gilbert	-	1c832d4a7b74225dc6d21e8db3cfee21	a8a7afc9-9f63-4230-b027-7da560777e20	nextflow run main.nf
+2024-11-20 16:31:51	-	lonely_volhard	-	1c832d4a7b74225dc6d21e8db3cfee21	59e08ada-bcbf-4bc1-9cc5-fa5993a90cd3	nextflow run main.nf --samples samples.csv
+2024-11-20 16:32:31	-	intergalactic_magritte	-	1c832d4a7b74225dc6d21e8db3cfee21	fda3732b-23f5-4d42-8207-2ecbdc98f3cf	nextflow run main.nf --samples samples.csv
+2024-11-20 16:32:42	-	maniac_hugle	-	1c832d4a7b74225dc6d21e8db3cfee21	14bec1f8-fed1-4ffe-bf18-9c7f2f2fbad3	nextflow run main.nf
+2024-11-20 16:34:38	-	happy_volhard	-	919da53e35f75fe90c5a12c026db675c	630c31ca-90f6-4326-92c1-79de5486a5ca	nextflow run main.nf
+2024-11-20 16:34:58	-	adoring_ardinghelli	-	919da53e35f75fe90c5a12c026db675c	b61cc915-0ce1-4bba-8f8e-134c7f28d085	nextflow run main.nf --samples samples.csv
+2024-11-20 16:36:52	-	sleepy_marconi	-	81567315d1fe49cc9d7f2c5c156f15db	51cc3578-5970-4084-a98e-f8129505cc4c	nextflow run main.nf --samples samples.csv
+2024-11-20 16:37:19	-	tender_bardeen	-	81567315d1fe49cc9d7f2c5c156f15db	9114de1a-de15-44c2-b4aa-b9683b21ca7b	nextflow run main.nf
+2024-11-20 16:38:25	-	agitated_sax	-	5b850a75850b3fd3773795a3ddea2778	eda83aa8-950a-433c-baf7-3ea4f21a79b9	nextflow run main.nf
+2024-11-20 16:49:48	-	cheeky_wozniak	-	5b850a75850b3fd3773795a3ddea2778	b9e106f4-3c6e-4a51-888e-acb548226433	nextflow run main.nf --samples samples.csv
+2024-11-20 16:51:11	-	festering_lamarck	-	fc707cabecea48ce16f208f9e48eca9d	0350020b-0861-4f20-aa91-235923697e5b	nextflow run main.nf
+2024-11-20 16:52:05	-	gloomy_hoover	-	022651b577bf3b2443ff950823012398	eca50ce6-0477-453f-bdc0-199857de72b3	nextflow run main.nf
+2024-11-20 16:52:55	-	prickly_euler	-	cbaad00743a5a3a76e9c14cf2284f318	4cceb1ce-124f-4fe5-bed4-df99f97a298a	nextflow run main.nf
+2024-11-20 16:53:48	-	marvelous_venter	-	40eb6e9fb3394058a68b3a7475001d05	80db75b4-46a0-4c43-9d60-e412bc495042	nextflow run main.nf
+2024-11-20 16:54:35	-	marvelous_almeida	-	bdb4e6696f2550e406bfaca46ad26ad6	f2ea6dd4-63d6-4c69-837f-ba3148f6906e	nextflow run main.nf
+2024-11-20 16:55:46	-	sharp_mahavira	-	3b5a096a4694aaa0d311204490016508	f0481c89-6676-4330-b759-7ecca7d5f4f3	nextflow run main.nf
+2024-11-20 17:07:54	-	kickass_poitras	-	f4c1abcce636e8b8578181657263d2e3	8b71ad06-fb00-45f7-b8f2-6f273e961eba	nextflow run main.nf
+2024-11-20 17:08:38	-	kickass_kimura	-	fcc5b13b9151147f213110857ea51590	ba11ccfe-5fdf-4fb5-9fc0-30b4e47e2c20	nextflow run main.nf
+2024-11-20 17:09:22	-	peaceful_panini	-	80562688b7db627a1f4ae03bd953bc4f	dfee118d-f3e0-47b2-8b03-28cd86fffd30	nextflow run main.nf
+2024-11-20 17:10:10	-	evil_engelbart	-	c8d4f48ea353642489c5ecf49ab48051	b9913f5c-7794-4fef-93e1-836cd83d0761	nextflow run main.nf
+2024-11-20 17:10:53	-	clever_sammet	-	f0740a293893b93254ed3c4da7dc988c	d0855e3c-1f1d-409e-b1f9-0368972f4f24	nextflow run main.nf
+2024-11-20 17:11:37	-	friendly_coulomb	-	8bf9b6ca04558b57efb7d9b1d00912e3	b252f544-49ea-44d8-8b09-b7c5ba5b3c31	nextflow run main.nf
+2024-11-20 17:12:28	-	friendly_monod	-	12b8118ddb0468ccd04bcd61a36e04d7	3ea8ce27-f49a-46bb-8cc9-327333118e89	nextflow run main.nf
+2024-11-20 17:17:32	3.1s	lonely_bartik	OK	353dcb17250da7ad196cf0815955491e	54c4d41a-33e5-4385-b1e7-378509dc4e9e	nextflow run main.nf
+2024-11-20 17:20:54	2.3s	angry_faraday	OK	353dcb17250da7ad196cf0815955491e	54c4d41a-33e5-4385-b1e7-378509dc4e9e	nextflow run main.nf -resume
+2024-11-20 17:22:40	1.9s	shrivelled_venter	ERR	353dcb17250da7ad196cf0815955491e	6fd93382-bd89-4d85-a36d-db20e9173b1a	nextflow run main.nf --samples samples.csv
+2024-11-20 17:24:30	3.5s	evil_cajal	ERR	f171057f1a60b15754f69d9062d84e86	51c595e1-01cb-4593-99fd-7efbbe3ea187	nextflow run main.nf
+2024-11-20 17:25:16	2.3s	amazing_payne	ERR	f171057f1a60b15754f69d9062d84e86	ddbf4b40-f929-4a87-b448-e2daccf3ee99	nextflow run main.nf --samples samples.csv
+2024-11-20 22:30:18	-	festering_curie	-	3fad552d984356d45abc6f9d98c1e5ae	589809d6-9142-4fbe-9e6f-aa81dbf109a4	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:38:36	-	kickass_kilby	-	39b59c3864c23051e0e5325c264f0d5e	d9d6475a-cd6a-4d70-97dd-867cac32d6a6	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:39:23	-	kickass_curie	-	7b8aec074471f1a96311a55cea732ccc	0f8a265d-a12e-4ba6-afc4-56551ba7f552	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:40:07	-	infallible_ritchie	-	ad157b32a1b6fabd51df9bf19e1ba7ad	86ec5398-01bb-4ec9-9bda-d3f22a109c08	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:40:56	-	kickass_moriondo	-	267fd78caccecd8b08bbdf6ff2e3c467	d62a07ed-2072-4d89-8362-cfe0d5a8d683	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:41:37	-	mad_goldwasser	-	e1d7756e560c9483b442a8bf6476b23c	b1dc892a-44d7-459f-a148-8b9cfc1fb82d	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:42:30	-	spontaneous_fermat	-	fb2c531fa701fac7e50e9b748d3962a0	1ecf66fb-3372-4422-b49e-6c7835a812f4	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:43:16	-	agitated_rubens	-	f1df9793bc2eebbfd33fe52ffedb2148	9c85e29d-2569-4209-9cc2-f1d88fbcdd87	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:44:04	-	golden_shannon	-	f1df9793bc2eebbfd33fe52ffedb2148	3c33ec74-a7ca-44cb-9831-9d1fd080cad5	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:44:19	-	naughty_bhaskara	-	f1df9793bc2eebbfd33fe52ffedb2148	fb2d525b-23ed-4475-ace9-e045bf57e9f3	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:45:12	-	maniac_bell	-	092441734f66021b844abfcb1f2ddb52	46f64950-b878-45f3-b02c-539e9b316d2b	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:50:33	-	cheesy_payne	-	59d3b38e9918824ae297eb79454c497c	b0e57287-cd5e-46e3-a141-2bb95864a402	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:57:43	-	serene_bardeen	-	42c5aa9695e80ccf25eef254509b7bcc	8f81d179-7ac8-43a1-9d5d-ef0ebd765a83	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 22:58:54	-	sharp_venter	-	1a6be1f041057375de72fe0f6fb4b819	f7a22cfb-8cda-4ed5-ab9f-4a56a8fa6695	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:07:54	-	small_wescoff	-	93c6c1b64e4c1bcb8a77b4a85fd0be23	f43e7a23-b29e-4b9f-b1fa-3096a386559f	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:11:07	-	fabulous_austin	-	eceb047cd9cfd17f1e155759fb65b8ab	56b430b9-d1c9-43e8-abcc-78baad69ef9b	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:11:57	-	scruffy_curran	-	d54e46b3d4ab97b1b9edde12e0848188	d5ef9ab4-d5c6-491a-9d2e-c4e6336055ab	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:12:53	-	modest_swirles	-	f3f4f0a27101c13a58ed4801c98be431	ded64cb4-9ded-426e-9126-8ebcd00255ee	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:15:08	-	nasty_keller	-	81ef3a8d306c521a5f69b5b90bad41ec	912bfe28-77ed-447b-bc8f-23957b511e91	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:15:53	-	special_poisson	-	e6db9c1e13b15d3f35aa6207ac68037e	69bc50c2-2798-439f-94be-7ff20ecf5091	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:16:31	-	confident_cajal	-	4368c0b7726a832ed3642cfd3b976ea0	5435d35a-ed8b-4e14-a5f9-26fc14e9d371	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:16:41	-	cranky_goldwasser	-	4368c0b7726a832ed3642cfd3b976ea0	61b63d6d-75cc-4aa5-b2c3-0f6ca027caa1	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:16:51	-	awesome_williams	-	4368c0b7726a832ed3642cfd3b976ea0	1b7315ac-e411-4704-9cf8-8ce05191734c	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:17:29	-	pensive_fermi	-	a4cf0a10910d924c9dc1aab77b15cabf	8e5d5198-2425-47c4-acd5-fee4077e44f5	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:18:20	-	loquacious_pesquet	-	eb7f1e7da5a63e76dee8f4d07498c72c	cfe0cf33-69e4-45b2-8509-6efcd9ba0472	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:19:08	-	sad_faggin	-	0d16df271db618b1d9873030408917ad	7b61bcd4-2690-4d7c-aa43-143a043b6e16	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:19:30	-	amazing_ptolemy	-	0ad8960276185888e46da9861b32f6ee	6d745148-2b52-4157-9f38-c4b0468f08d4	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:20:12	-	curious_becquerel	-	9ccb50af7e5a32932e7073e44f2bafad	a4a6bd83-b4c0-440c-aa13-e3b7a502a62e	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:20:53	-	berserk_linnaeus	-	ada7cfea9c8255031a249f99537567fd	cc4ad901-c43d-4590-86d9-504130df1fa8	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:22:15	-	infallible_meucci	-	7dcfc05d0f469d2c90541f9d6560e4fa	a412e13d-ecea-4b64-b29b-c1eac99775a8	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:22:59	-	gloomy_becquerel	-	1ac8603d30131567be7a57dabc407004	a947ac3f-7b60-445d-a378-a14e6a24582d	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:23:48	-	angry_shockley	-	454f4269c8efeba9de0f36b489eca768	47e426f5-8d6d-4e07-bd02-115498d3806a	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:31:13	-	dreamy_nightingale	-	cd4f199d989827fbe6f1e2a30ca9f440	2796e327-dca7-440b-b123-448247f27e04	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:31:50	-	sleepy_khorana	-	f049613ea98d01838bb03c26116f2fde	a8f89c87-b7a3-48fe-9f69-5c289eb792e9	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:32:40	-	prickly_gilbert	-	c4aa7a2f20f14ada675afb3e128f8825	80dc56d8-63d2-493e-9977-c42375b27a01	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:33:28	2s	pensive_sax	OK	87af3d2b5eaa508b8235124fcd957886	806052e7-86ab-4eb2-8a40-fc060544831c	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:34:18	2.2s	grave_ampere	OK	58bbfa71db85a396cd913f0d356e51da	406b4530-ef6f-4aba-925b-1e309da00cd1	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:35:32	-	loving_gates	-	0ef5c347b38c0baaaff48af0a86307e4	279789c4-05f8-4e82-b184-5cf0b0a22d73	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:37:32	-	pensive_mendel	-	3364f15495f388dfbe01399fdc5fc0b3	9f81a599-db39-447a-97c8-4870cd5083d9	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:38:10	1.4s	jolly_plateau	OK	58bbfa71db85a396cd913f0d356e51da	26f3bc5b-29a8-4320-be8c-c8dea19f73ea	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:38:55	2s	elated_curry	OK	7527f716b5d1fee52b40bce367e32b47	33e6c607-87f8-415b-b92f-1551e8b7396f	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:45:16	1.9s	ridiculous_knuth	OK	801ecd033f417da68432e19b28d73dcf	2d638b39-7cf1-4338-a2f5-ea7d2ec99eff	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:45:35	292ms	insane_perlman	OK	801ecd033f417da68432e19b28d73dcf	fb3d16bd-bcfe-4d97-843a-ab08dd76219f	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:47:04	-	shrivelled_ardinghelli	-	8ddccf790c8205569158597b272290dc	f353e8c3-5bad-4a4c-9941-8d05c6776136	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:47:52	-	deadly_bardeen	-	b36508412f3a0586520646e32c92abdf	b0bb5be3-7d39-4774-8f05-b26d4ae96425	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:50:13	2.2s	exotic_noether	OK	06903a9c883bd65ad3267286047d6762	ae4cbb92-7045-4940-9aca-531c99f77f90	nextflow run main.nf --samples samples.csv -with-docker
+2024-11-20 23:57:29	1.6s	dreamy_wozniak	OK	f2d3ec99029ce1ba5f6d597beaafd0a5	ad68372c-cf80-4bb2-ad34-973de183f96f	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-20 23:58:51	1.5s	hungry_torvalds	OK	37b25524e06b78cc01d12de192aefae6	ecce1525-6e1a-4ac9-b4f1-951eb4e108c2	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-20 23:59:27	2.3s	exotic_hugle	OK	afc4fbc424deab00aff732a4bf5d12f7	5f96b12d-b544-4380-a14e-0b30bc59b115	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-21 00:00:30	-	high_brazil	-	9945584963dead22ee734af7c5012fee	d3fb2a0a-4b6f-429f-b70a-4b31c8c1fb3b	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-21 00:01:44	-	festering_archimedes	-	ff6fe4b95340981bed185971ed746c80	922fa0d6-6535-488a-96bb-b404f146495e	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-21 00:06:15	-	zen_goldstine	-	7dd531a5902463f0e62bccfbe0f28dd4	05ef9ee5-24bc-48cf-a8ce-31bb3fc9fab1	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-21 00:06:58	-	extravagant_jang	-	baf0cde2d9197af2b3a63c41605b4533	68ababc7-7fea-4cc9-b77e-1f3231ee74fe	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-21 00:08:26	-	pedantic_turing	-	2fd613081f5a4dfbf9354f22f79454c3	056f0906-985e-4810-b3b7-309ef1bab862	nextflow run main.nf --samples samples.csv -with-docker -with-trace
+2024-11-29 00:15:24	-	stoic_stallman	-	2fd613081f5a4dfbf9354f22f79454c3	6aec40d6-b7ed-4472-909d-a5595e668673	nextflow run main.nf --with-docker
+2024-11-29 00:18:52	-	confident_noyce	-	2fd613081f5a4dfbf9354f22f79454c3	c32d2f4a-933e-437e-8783-0e2749a09844	nextflow run main.nf --with-docker
+2024-11-29 00:20:02	-	desperate_albattani	-	3a521a09f23e33d32b2b24b4586e76e5	3cf9e73e-0a68-43cc-ab90-86fd252a5d42	nextflow run main.nf --with-docker
+2024-11-29 00:20:42	-	fervent_fourier	-	fb7efcaae1d07159fc240b5d3e29ae00	d83dc9f3-2fbc-491b-b9dc-534a6f7d5298	nextflow run main.nf --with-docker
+2024-11-29 00:21:40	-	lonely_kimura	-	596b509ba9be372a98f7dd59d39e8b48	041cb8e7-78c2-4988-b9ab-b07619299029	nextflow run main.nf --with-docker
+2024-11-29 00:23:18	-	loquacious_edison	-	383f655818a9aee24ac91e714503b95b	76fa0589-7b5f-45f8-b00f-33d561607d34	nextflow run main.nf --with-docker
+2024-11-29 00:24:15	-	marvelous_cray	-	8625e075c4bbde1887139dce52d0aa2c	01c89e0b-298e-4cdb-ac0e-43b81f53ba53	nextflow run main.nf --with-docker
+2024-11-29 00:25:05	-	goofy_meucci	-	6a5f6145340b64cb636ac9ef776a333f	b4062f01-5811-4d6d-bfb7-8ae27c089001	nextflow run main.nf --with-docker
+2024-11-29 00:25:41	-	exotic_solvay	-	9d67ede43b24039ee2e7cf705c313204	f634a1c2-934c-4734-a37c-a68071dd2c28	nextflow run main.nf --with-docker
+2024-11-29 00:26:36	2.7s	boring_becquerel	ERR	c6cf549364af60b0c4835b35fa2122e6	f84f02a8-3954-4e44-917c-680d3daef660	nextflow run main.nf --with-docker
+2024-11-29 00:27:32	-	evil_descartes	-	6cabbfef3176e9729b73079f20b232eb	1e1a41cf-99cc-4f78-9922-28c6527b1741	nextflow run main.nf --with-docker
+2024-11-29 00:28:03	3.4s	mighty_ptolemy	ERR	05b20750489b67198bfe8b6714ba7008	cb9be7c1-d1da-46e5-91f6-e5d4743f4742	nextflow run main.nf --with-docker
+2024-11-29 00:30:38	598ms	lonely_goldberg	ERR	05b20750489b67198bfe8b6714ba7008	017683f4-9c2d-4de5-9d9f-83962b20aede	nextflow run main.nf --with-docker
+2024-11-29 00:31:34	3.2s	jovial_gauss	ERR	05b20750489b67198bfe8b6714ba7008	bb70f35b-327b-4cc7-8270-d41d8826b720	nextflow run main.nf --with-docker
+2024-11-29 00:39:34	3.5s	reverent_spence	ERR	05b20750489b67198bfe8b6714ba7008	ff195308-876e-45f2-aec5-ac0af1f3de27	nextflow run main.nf --with-docker
+2024-11-29 00:40:57	3.3s	jolly_einstein	ERR	05b20750489b67198bfe8b6714ba7008	8c0ad943-8c67-4baa-935a-172d94734fb4	nextflow run main.nf --with-docker
+2024-11-29 00:41:40	3.3s	serene_knuth	ERR	05b20750489b67198bfe8b6714ba7008	61005e18-a0d5-4be9-8fdc-f71d6aed8bd8	nextflow run main.nf --with-docker
+2024-11-29 00:42:38	2.5s	zen_kirch	ERR	05b20750489b67198bfe8b6714ba7008	88ae3be4-d636-4c9e-9926-96cdea7537f3	nextflow run main.nf --with-docker
+2024-11-29 00:42:54	2.5s	drunk_bohr	ERR	05b20750489b67198bfe8b6714ba7008	2e155983-a63f-4480-9dd7-4819c3887b5f	nextflow run main.nf --with-docker
+2024-11-29 00:43:12	2.5s	marvelous_allen	ERR	05b20750489b67198bfe8b6714ba7008	8dc569b1-ed7d-4322-8328-87a55667f6d3	nextflow run main.nf --with-docker
+2024-11-29 00:46:21	3.3s	sharp_euler	ERR	05b20750489b67198bfe8b6714ba7008	4a79dbb6-3c1e-4fe2-bf0b-0f1687d77957	nextflow run main.nf --with-docker
+2024-11-29 00:46:53	2.7s	shrivelled_einstein	ERR	05b20750489b67198bfe8b6714ba7008	58e8ddf7-d023-4abb-b380-6b8f70c559ed	nextflow run main.nf --with-docker
+2024-11-29 00:47:03	2.7s	loquacious_pasteur	ERR	05b20750489b67198bfe8b6714ba7008	acb9b7cc-5306-4b47-b837-294b6744f581	nextflow run main.nf --with-docker
+2024-11-29 00:48:13	3.3s	dreamy_hoover	ERR	05b20750489b67198bfe8b6714ba7008	61d35f2d-3f65-4222-b424-441f938947d7	nextflow run main.nf --with-docker
+2024-11-29 00:48:32	3.2s	berserk_aryabhata	ERR	05b20750489b67198bfe8b6714ba7008	6677f2ad-75d4-407d-bf82-5cae37e31c0b	nextflow run main.nf --with-docker
+2024-11-29 00:48:43	2.8s	nice_murdock	ERR	05b20750489b67198bfe8b6714ba7008	f9c8a517-9f9d-493e-855b-1927acf26627	nextflow run main.nf --with-docker
+2024-11-29 00:50:34	3.2s	mighty_stone	ERR	05b20750489b67198bfe8b6714ba7008	56a7921f-2308-4ddb-b43e-04c178f48428	nextflow run main.nf --with-docker
+2024-11-29 00:54:54	2.9s	amazing_golick	ERR	05b20750489b67198bfe8b6714ba7008	fc0f042e-f482-4524-8329-0ba65869cf39	nextflow run main.nf --with-docker
+2024-11-29 00:56:18	534ms	goofy_coulomb	ERR	05b20750489b67198bfe8b6714ba7008	2a404604-da2d-44a1-9323-6419a8eb26b2	nextflow run main.nf --with-docker resume
+2024-11-29 00:57:40	1.1s	modest_curie	ERR	05b20750489b67198bfe8b6714ba7008	6d8413e6-d2c3-42f3-af82-b82b5418624f	nextflow run main.nf --with-docker resume
+2024-11-29 00:57:57	3.2s	drunk_allen	ERR	05b20750489b67198bfe8b6714ba7008	0c1d4562-af21-4381-a541-3fddb5563de2	nextflow run main.nf --with-docker resume
+2024-11-29 01:02:59	2.8s	curious_sammet	ERR	05b20750489b67198bfe8b6714ba7008	e516b390-a91b-4036-bec4-6cdfd8fc611a	nextflow run main.nf --with-docker
+2024-11-29 01:05:35	3.3s	pedantic_baekeland	ERR	05b20750489b67198bfe8b6714ba7008	fa11fa6c-c814-4bbc-81fe-3f9b28e73dc4	nextflow run main.nf --with-docker
+2024-11-29 01:08:20	-	festering_bell	-	2c2d2e3c38163ddb4705a9e6530055ff	aa7487a0-aa41-4168-9579-3bfed88d5196	nextflow run main.nf --with-docker
+2024-11-29 01:09:48	-	big_hodgkin	-	db2f8941a7df177a966aa21ab83d2a41	f58cb53d-491d-4b95-a051-5bc52d127055	nextflow run main.nf --with-docker
+2024-11-29 01:10:22	-	tiny_gauss	-	820d0a6ed470abccca55980c6f5bfa64	d4fefc9f-09c6-4fcf-9625-329f86729e06	nextflow run main.nf --with-docker
+2024-11-29 01:11:01	-	disturbed_cuvier	-	6cabbfef3176e9729b73079f20b232eb	a10760bd-d360-4d05-989f-f02094d13535	nextflow run main.nf --with-docker
+2024-11-29 01:11:14	3.6s	disturbed_engelbart	ERR	05b20750489b67198bfe8b6714ba7008	a4c9ed8c-7d66-4345-98b3-7a8c7f98f9e9	nextflow run main.nf --with-docker
+2024-11-29 01:11:58	3s	admiring_escher	ERR	05b20750489b67198bfe8b6714ba7008	9f6d2cff-cb9f-436f-8172-9e6376d7ce6f	nextflow run main.nf --with-docker
+2024-11-29 01:17:30	3s	kickass_hilbert	ERR	05b20750489b67198bfe8b6714ba7008	632fab47-a4b7-4ef2-b92c-6d01a18f3fe3	nextflow run main.nf --with-docker
+2024-11-29 01:18:58	2.6s	exotic_escher	ERR	05b20750489b67198bfe8b6714ba7008	d876307e-1d75-4769-a5b7-226a08e1e0f9	nextflow run main.nf --with-docker resume
+2024-11-29 01:23:33	3.2s	nasty_koch	ERR	70cced0230a2abb937b3d13c87eba397	847d44a9-106d-458a-9235-110f9a95d59a	nextflow run main.nf --with-docker
+2024-11-29 01:23:45	3.1s	reverent_baekeland	ERR	70cced0230a2abb937b3d13c87eba397	7d966334-94f9-4a67-9fee-e8a66930e2a8	nextflow run main.nf --with-docker
+2024-11-29 01:24:45	2.6s	magical_stallman	ERR	70cced0230a2abb937b3d13c87eba397	067d0a0f-6bca-4537-a30e-c41e5b14cab1	nextflow run main.nf --with-docker
+2024-11-29 01:25:02	2.8s	dreamy_heyrovsky	ERR	70cced0230a2abb937b3d13c87eba397	7ab8170d-cb22-4583-8616-b31a7e2d1c6d	nextflow run main.nf --with-docker
+2024-11-29 01:25:28	564ms	sick_khorana	ERR	3324ccafa852975483a177d41c8a5f52	a067f111-fbb8-4178-ac5d-f090a2196ff6	nextflow run main.nf --with-docker
+2024-11-29 01:25:36	2.7s	distracted_heisenberg	ERR	3324ccafa852975483a177d41c8a5f52	75e9c6d9-cb6e-4435-adb8-ae173942de0c	nextflow run main.nf --with-docker
+2024-11-29 01:25:44	3.4s	spontaneous_stone	ERR	3324ccafa852975483a177d41c8a5f52	6710058d-e188-46d9-991c-e7b0a248ffc6	nextflow run main.nf --with-docker
+2024-11-29 01:26:00	3.6s	chaotic_angela	ERR	dd42c832ca543802ffc0408b02f70702	ceab105f-e04b-48de-8282-548988e8e09d	nextflow run main.nf --with-docker
+2024-11-29 01:26:57	3.2s	extravagant_pesquet	ERR	dd42c832ca543802ffc0408b02f70702	d80c6d26-bdb2-45a7-9579-81def5ff6ac1	nextflow run main.nf --with-docker
+2024-11-29 01:29:32	2.9s	determined_hugle	ERR	dd42c832ca543802ffc0408b02f70702	e38bcf75-1591-4a1f-aa55-9612fd2edc02	nextflow run main.nf --with-docker
+2024-11-30 14:22:04	3.1s	determined_lamarck	ERR	dd42c832ca543802ffc0408b02f70702	4d2a36d1-e9a8-48ce-947c-5c3926a3f8ba	nextflow run main.nf --with-docker
+2024-12-01 19:21:15	3.7s	modest_leakey	ERR	dd42c832ca543802ffc0408b02f70702	1ba2a3bc-79be-4bca-8eaf-8dfcb0f04bec	nextflow run main.nf --with-docker
+2024-12-01 19:26:39	3.5s	fabulous_carlsson	ERR	05b20750489b67198bfe8b6714ba7008	04113d85-04f1-4f7d-9105-1aba45d8745f	nextflow run main.nf --with-docker
+2024-12-01 19:34:09	3.9s	romantic_linnaeus	ERR	05b20750489b67198bfe8b6714ba7008	9faa5527-14e2-4d74-8677-a45fc7719b2e	nextflow run main.nf --with-docker
+2024-12-01 19:35:25	2.7s	lethal_noyce	ERR	05b20750489b67198bfe8b6714ba7008	554fb13a-196b-426c-93e8-671b46586835	nextflow run main.nf --with-docker
+2024-12-01 19:36:30	3.3s	stupefied_rosalind	ERR	05b20750489b67198bfe8b6714ba7008	f7c8e801-90c3-4a99-8230-12ad2a616739	nextflow run main.nf --with-docker
+2024-12-01 19:38:10	2.2s	suspicious_almeida	ERR	05b20750489b67198bfe8b6714ba7008	9c53224d-dc75-4049-b3e1-f63694087f8c	nextflow run main.nf --with-docker
+2024-12-01 19:38:41	3.2s	shrivelled_mayer	ERR	05b20750489b67198bfe8b6714ba7008	9a525764-c4ec-42f5-84f6-6e5ecd2de0d5	nextflow run main.nf --with-docker
+2024-12-01 19:40:05	3.6s	big_elion	ERR	05b20750489b67198bfe8b6714ba7008	0eb29cf6-ce71-4e96-a91e-d5dccea80b64	nextflow run main.nf --with-docker
+2024-12-01 19:48:57	2.7s	prickly_rosalind	ERR	05b20750489b67198bfe8b6714ba7008	6194d038-8c24-4caa-8b5d-2ac2c76721c5	nextflow run main.nf --with-docker
+2024-12-01 19:50:18	2.8s	wise_mestorf	ERR	05b20750489b67198bfe8b6714ba7008	b38cb3ba-5cca-45fc-a12b-e2f34ff4fbf5	nextflow run main.nf --with-docker
+2024-12-01 20:11:25	3.7s	furious_wescoff	ERR	05b20750489b67198bfe8b6714ba7008	eea83b69-6a94-404a-b4d5-15ba22a88be3	nextflow run main.nf --with-docker
+2024-12-01 20:13:07	3.5s	gloomy_pesquet	ERR	05b20750489b67198bfe8b6714ba7008	8315cc72-2aa3-4676-b70d-3f8eba4f3098	nextflow run main.nf --with-docker
+2024-12-01 20:21:24	17s	curious_gilbert	ERR	05b20750489b67198bfe8b6714ba7008	069516a4-f5dc-40df-811d-2b58a03c5383	nextflow run main.nf --with-docker
+2024-12-01 20:22:18	27.1s	focused_pauling	ERR	05b20750489b67198bfe8b6714ba7008	fb4391c4-2bf0-4623-be8d-75787e509307	nextflow run main.nf --with-docker
+2024-12-01 22:59:41	7m 56s	serene_dalembert	ERR	05b20750489b67198bfe8b6714ba7008	29febde3-6cfa-4ab7-9ffc-dd4eb4ac145b	nextflow run main.nf --with-docker
+2024-12-01 23:22:08	44.1s	trusting_baekeland	ERR	5a2154f3a4a5c66615cb958e98354875	dec781ae-37a3-4f4e-8985-80b9ca376bf4	nextflow run main.nf --with-docker
+2024-12-01 23:24:10	42.8s	shrivelled_archimedes	ERR	429594cf25ae252656ee647f378be30f	03d2847b-f35c-4149-ae27-245066a3f40f	nextflow run main.nf --with-docker
+2024-12-01 23:28:38	35.5s	friendly_brattain	ERR	49e6a56766281d439688e6fe981b4f66	3753adb3-508b-41c8-9b14-ae3dabcfd0d7	nextflow run main.nf --process fastqc --with-docker
+2024-12-01 23:31:16	15.1s	ridiculous_poincare	ERR	49e6a56766281d439688e6fe981b4f66	1b5ab21c-8cb0-486d-b3b0-6a871fdad82a	nextflow run main.nf --with-docker
+2024-12-01 23:33:34	12.6s	chaotic_nightingale	ERR	49e6a56766281d439688e6fe981b4f66	d54cbc21-9218-46ce-9a54-357ba3f66bb7	nextflow run main.nf --with-docker
+2024-12-01 23:34:54	5m 48s	prickly_ptolemy	ERR	49e6a56766281d439688e6fe981b4f66	5cb671c0-c335-4e19-9c23-627d881c68a4	nextflow run main.nf --with-docker
+2024-12-01 23:49:11	39.8s	sleepy_yalow	ERR	60421b5162544ae443752e01337096cf	9fcc1364-b930-422e-8050-f3e03a717ed5	nextflow run main.nf --with-docker
+2024-12-01 23:54:43	47.8s	hungry_euclid	ERR	60421b5162544ae443752e01337096cf	5066f56b-618b-4a4a-93ca-5aeda19b4907	nextflow run main.nf --with-docker
+2024-12-02 00:02:06	44.5s	mighty_gates	ERR	e17b32383819850dc8b940145776cf1e	1e1ffbb8-1b39-4f9b-b972-f7a944fa0438	nextflow run main.nf --with-docker
+2024-12-02 00:05:57	42.8s	ecstatic_heisenberg	ERR	f1e5dbc6c60541a57316d58b29830fd5	d387bb04-8bde-4ff0-bc05-f4933de34369	nextflow run main.nf --with-docker
+2024-12-02 00:08:15	13h 38m 46s	angry_heisenberg	ERR	f1e5dbc6c60541a57316d58b29830fd5	89d20def-74e6-4c25-ba9a-970d244a9fb7	nextflow run main.nf --with-docker
+2024-12-02 00:56:48	-	thirsty_nightingale	-	fbe8ba8a7423eb0c3d13ecc80f6475b8	89d20def-74e6-4c25-ba9a-970d244a9fb7	nextflow run main.nf --with-docker -resume
+2024-12-02 00:57:25	-	loving_hoover	-	fbe8ba8a7423eb0c3d13ecc80f6475b8	89d20def-74e6-4c25-ba9a-970d244a9fb7	nextflow run main.nf --with-docker -resume
+2024-12-02 00:58:10	56.7s	tender_mercator	ERR	fbe8ba8a7423eb0c3d13ecc80f6475b8	89d20def-74e6-4c25-ba9a-970d244a9fb7	nextflow run main.nf --with-docker -resume
+2024-12-02 01:01:04	51.5s	nice_spence	ERR	be1478526178d8ef52cfeec9b39b824e	89d20def-74e6-4c25-ba9a-970d244a9fb7	nextflow run main.nf --with-docker -resume
+2024-12-02 01:03:34	12h 43m 28s	boring_pesquet	ERR	b80af2247e28376f0ff44c0bef38e4b8	89d20def-74e6-4c25-ba9a-970d244a9fb7	nextflow run main.nf --with-docker -resume
+2024-12-02 01:20:47	19m 26s	cranky_ride	ERR	2f7f41dc2813196a560c02b824652881	69daeaed-a9c9-424b-82c1-bb63263f3985	nextflow run main.nf --with-docker
+2024-12-02 13:11:53	7m 27s	astonishing_lumiere	ERR	2f7f41dc2813196a560c02b824652881	7630a2a1-d8d0-45cb-bded-b7e368bf4e39	nextflow run main.nf --with-docker
+2024-12-02 13:20:24	26m 30s	chaotic_darwin	ERR	d25ea7fa06b0cc4589a4b2e1be70697f	a4d2e6ad-b129-40de-a14b-e5e34bcf6a72	nextflow run main.nf --with-docker
+2024-12-02 13:48:40	3s	prickly_neumann	ERR	fc67bfb2b2647a231da4b03c49a60dd2	009371d5-790b-4876-86b3-edd5e780882f	nextflow run main.nf --with-docker
+2024-12-02 13:49:50	3.8s	sad_gauss	ERR	172b713bd44080a0575e44beecb515b4	ca505b40-1d5d-4fde-bacb-fc0e6dc269d6	nextflow run main.nf --with-docker
+2024-12-02 13:54:14	3.7s	focused_shirley	ERR	172b713bd44080a0575e44beecb515b4	8bd18c6c-67de-4ec7-be79-f4155d4da9e6	nextflow run main.nf --with-docker
+2024-12-02 13:59:22	3s	ridiculous_minsky	ERR	172b713bd44080a0575e44beecb515b4	553c9b64-ae98-46b5-b482-7b67ab4f6576	nextflow run main.nf --with-docker
+2024-12-02 14:00:33	2.7s	crazy_jennings	ERR	172b713bd44080a0575e44beecb515b4	d24c5095-4e43-4f0e-ab8c-912c83e2f2c8	nextflow run main.nf --with-docker
+2024-12-02 14:01:53	3.4s	naughty_roentgen	ERR	172b713bd44080a0575e44beecb515b4	1a7621e4-763f-42cb-ab5d-11810c238e55	nextflow run main.nf --with-docker
+2024-12-02 14:02:21	2.5s	gloomy_lattes	ERR	7ed6786c3d2a4e0c22c1c07b61de47dc	607ad4fd-fcb6-4c37-9164-e4c153db96fb	nextflow run main.nf --with-docker
+2024-12-02 14:02:40	2m 15s	curious_cori	ERR	d6df3e900f3541a513e8d0650304050a	8d1b7ec6-32d6-4a4d-a5b5-e9528fd5e363	nextflow run main.nf --with-docker
+2024-12-02 14:45:35	16.2s	insane_cori	ERR	c6fe3fca1c0078b0a1568b849b4e3366	867319e1-8a7d-4d9e-9f56-0694372abcfb	nextflow run main.nf --with-docker
+2024-12-02 14:47:31	-	hopeful_murdock	-	ea8195cdb367f26a7b61686c15d32830	607c8531-c6a1-4c2c-bf93-7be936f1e0a0	nextflow run main.nf --with-docker
+2024-12-02 14:49:13	-	distraught_panini	-	55b341aa146b400c471b148eea7a54bb	76252a8e-b700-492c-9712-447f39224c1f	nextflow run main.nf --with-docker
+2024-12-02 14:50:10	-	high_waddington	-	92d7fb00f6d29809153fc0f1005e40f0	108d7539-fb6b-4afc-9cae-a1e8b441b2db	nextflow run main.nf --with-docker
+2024-12-02 14:52:30	-	deadly_thompson	-	6d19465edff9d22ab2d2c7a5ddd5b4be	99f573a4-41a9-437d-a871-9a1a6e2944bb	nextflow run main.nf --with-docker
+2024-12-02 14:53:39	-	mighty_cuvier	-	6d19465edff9d22ab2d2c7a5ddd5b4be	6b4f451b-979d-4a42-a348-0716c33cb745	nextflow run main.nf --with-docker
+2024-12-02 14:54:29	-	cheesy_swartz	-	6e508bcb8ff00870f9d1976369109e5c	bedf2c5d-dffa-40ef-a3c1-00f38aef9e10	nextflow run main.nf --with-docker
+2024-12-02 15:19:30	-	happy_meitner	-	6e508bcb8ff00870f9d1976369109e5c	74267ee5-f062-49a0-a2e9-041e9cd15fb1	nextflow run main.nf --with-docker
+2024-12-02 15:21:30	-	hungry_fourier	-	063579853edb52f6fd7fe540f3c1e7bc	44c66ee8-78e1-4751-98d7-64df7b977b77	nextflow run main.nf --with-docker
+2024-12-02 16:25:45	8m 56s	intergalactic_newton	ERR	2f7f41dc2813196a560c02b824652881	c3065461-3419-473e-afd5-ff7c0ae0bbab	nextflow run main.nf --with-docker
+2024-12-02 17:06:42	-	sharp_gutenberg	-	93be571cf763cc192015a5a0a2616e65	fbb7b878-4d90-4fe5-8389-f65f3e485718	nextflow run main.nf --with-docker
+2024-12-02 17:36:00	-	amazing_minsky	-	20fd85bec4e7709f15033cca9992ec39	063c3d57-43d2-49ad-aa52-70ce7367e6a4	nextflow run main.nf --with-docker
+2024-12-02 17:36:45	42.2s	small_almeida	ERR	a8c1d4e4639f1de125242e808bfcc413	9a331589-cc22-454b-9480-786e6a487226	nextflow run main.nf --with-docker
+2024-12-02 17:45:30	45.2s	awesome_waddington	ERR	a8c1d4e4639f1de125242e808bfcc413	64e744d1-3373-4140-9312-f2348eca489b	nextflow run main.nf --with-docker --resume
+2024-12-02 17:49:55	43.5s	exotic_wozniak	ERR	a8c1d4e4639f1de125242e808bfcc413	dbf99b45-ccdf-43a2-942e-a73ac77ec23e	nextflow run main.nf --with-docker --resume
+2024-12-02 17:52:07	11m 28s	nasty_knuth	ERR	a8c1d4e4639f1de125242e808bfcc413	7bf4fe41-3d9a-4acb-81e8-3a850cc7320f	nextflow run main.nf --with-docker --resume
+2024-12-02 18:16:41	38.4s	ecstatic_tesla	ERR	9290bbc8d3ab1f492c59fdd28aaabf1d	23ccd89e-3bbe-4131-a330-1ea46b40e62d	nextflow run main.nf --with-docker --resume
+2024-12-02 18:20:24	39.3s	big_khorana	ERR	9290bbc8d3ab1f492c59fdd28aaabf1d	44322ea8-b67d-405d-b94f-4e26a6af1e12	nextflow run main.nf --with-docker --resume
+2024-12-02 18:52:17	45.5s	clever_rubens	ERR	d1d3c461682d5126df5919b1e92095c3	4977d851-633f-40eb-a202-a9ed50eec8dc	nextflow run main.nf --with-docker

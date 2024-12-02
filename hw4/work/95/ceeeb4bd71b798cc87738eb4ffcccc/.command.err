@@ -1,0 +1,56 @@
+Unable to find image 'biocontainers/fastqc:v0.11.9_cv8' locally
+v0.11.9_cv8: Pulling from biocontainers/fastqc
+c86651a97b9e: Pulling fs layer
+9ff7e2e5f967: Pulling fs layer
+59856638ac9f: Pulling fs layer
+6f317d6d954b: Pulling fs layer
+a9dde5e2a643: Pulling fs layer
+675cac559d07: Pulling fs layer
+0e6dd20ee818: Pulling fs layer
+374c558e71da: Pulling fs layer
+0df3c64bb19a: Pulling fs layer
+e936d7784cf9: Pulling fs layer
+4dfd8d164cc5: Pulling fs layer
+473490461998: Pulling fs layer
+8f5e491552e6: Pulling fs layer
+a66ab3a674d9: Pulling fs layer
+18f922275a6f: Pulling fs layer
+dbd67cd33317: Pulling fs layer
+8f5e491552e6: Download complete
+a66ab3a674d9: Download complete
+59856638ac9f: Download complete
+a9dde5e2a643: Download complete
+e936d7784cf9: Download complete
+4dfd8d164cc5: Download complete
+473490461998: Download complete
+dbd67cd33317: Download complete
+6f317d6d954b: Download complete
+675cac559d07: Download complete
+0df3c64bb19a: Download complete
+9ff7e2e5f967: Download complete
+18f922275a6f: Download complete
+374c558e71da: Download complete
+0e6dd20ee818: Download complete
+c86651a97b9e: Download complete
+Digest: sha256:82e5fa413d275a72c3de76e400a3d12a93ebdb4e1ef5391d7f7e9ce686671d8d
+Status: Downloaded newer image for biocontainers/fastqc:v0.11.9_cv8
+Started analysis of SRR292678_1.fastq.gz
+Approx 5% complete for SRR292678_1.fastq.gz
+Approx 10% complete for SRR292678_1.fastq.gz
+Approx 15% complete for SRR292678_1.fastq.gz
+Approx 20% complete for SRR292678_1.fastq.gz
+Approx 25% complete for SRR292678_1.fastq.gz
+Approx 30% complete for SRR292678_1.fastq.gz
+Approx 35% complete for SRR292678_1.fastq.gz
+Approx 40% complete for SRR292678_1.fastq.gz
+Approx 45% complete for SRR292678_1.fastq.gz
+Approx 50% complete for SRR292678_1.fastq.gz
+Approx 55% complete for SRR292678_1.fastq.gz
+Approx 60% complete for SRR292678_1.fastq.gz
+Approx 65% complete for SRR292678_1.fastq.gz
+Approx 70% complete for SRR292678_1.fastq.gz
+Approx 75% complete for SRR292678_1.fastq.gz
+Approx 80% complete for SRR292678_1.fastq.gz
+Approx 85% complete for SRR292678_1.fastq.gz
+Approx 90% complete for SRR292678_1.fastq.gz
+Approx 95% complete for SRR292678_1.fastq.gz

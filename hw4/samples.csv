@@ -1,0 +1,3 @@
+sample_id,read_1,read_2,assembly
+SRR292862,SRR292862_1.fastq.gz,SRR292862_2.fastq.gz,contigs.fasta
+SRR292678,SRR292678_1.fastq.gz,SRR292678_2.fastq.gz,

@@ -1,0 +1,6 @@
+- "left reads":
+  - "/home/samnumbula/data_driven/hw4/work/75/44821eaabf6b9a61f8ab76da803484/SRR292678_1.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/home/samnumbula/data_driven/hw4/work/75/44821eaabf6b9a61f8ab76da803484/SRR292678_2.fastq.gz"
+  "type": "paired-end"
