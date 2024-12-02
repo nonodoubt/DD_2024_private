@@ -1,0 +1,36 @@
+Command line: /home/biodocker/bin/spades.py	--pe1-1	/home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/SRR292678_1.fastq.gz	--pe1-2	/home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/SRR292678_2.fastq.gz	-o	/home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/spades_output	
+
+System information:
+  SPAdes version: 3.13.1
+  Python version: 2.7.12
+  OS: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-Ubuntu-16.04-xenial
+
+Output dir: /home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/spades_output
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/SRR292678_1.fastq.gz']
+      right reads: ['/home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/SRR292678_2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/samnumbula/data_driven/hw4/work/9d/ea5ca4529237a6ecd03de98feea0a4/spades_output/tmp
+  Threads: 16
+  Memory limit (in Gb): 7
+

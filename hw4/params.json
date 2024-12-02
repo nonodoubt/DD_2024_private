@@ -1,0 +1,18 @@
+{
+  "quast": {
+    "reference": null
+  },
+  "spades": {
+    "memory": "16",
+    "threads": 8
+  },
+  "global_params": {
+    "threads": 4
+  },
+  "prokka": {
+    "genus": "Escherichia"
+  },
+  "abricate": {
+    "database": "resfinder"
+  }
+}

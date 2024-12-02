@@ -1,0 +1,36 @@
+Unable to find image 'biocontainers/spades:v3.13.1_cv1' locally
+v3.13.1_cv1: Pulling from biocontainers/spades
+db9fe030675f: Pulling fs layer
+34667c7e4631: Pulling fs layer
+d18d76a881a4: Pulling fs layer
+119c7358fbfc: Pulling fs layer
+2aaf13f3eff0: Pulling fs layer
+d344a036449c: Pulling fs layer
+77f405472a1e: Pulling fs layer
+07459e7bed97: Pulling fs layer
+4b62c33c231b: Pulling fs layer
+d504e55e444c: Pulling fs layer
+ab19a5691df7: Pulling fs layer
+8740c4399f9a: Pulling fs layer
+374d024f102a: Pulling fs layer
+b45a352333c1: Pulling fs layer
+1e8c2c56d6ad: Pulling fs layer
+b4ebad9eaf90: Pulling fs layer
+2aaf13f3eff0: Download complete
+d344a036449c: Download complete
+ab19a5691df7: Download complete
+d504e55e444c: Download complete
+119c7358fbfc: Download complete
+1e8c2c56d6ad: Download complete
+d18d76a881a4: Download complete
+b45a352333c1: Download complete
+4b62c33c231b: Download complete
+374d024f102a: Download complete
+db9fe030675f: Download complete
+b4ebad9eaf90: Download complete
+8740c4399f9a: Download complete
+34667c7e4631: Download complete
+07459e7bed97: Download complete
+77f405472a1e: Download complete
+Digest: sha256:a13361a882b10773552d21696ee00e817c24df942e7a2586e9f64d7f5399400d
+Status: Downloaded newer image for biocontainers/spades:v3.13.1_cv1
