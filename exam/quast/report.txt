@@ -1,0 +1,23 @@
+Assembly                    SRR29136213_1_fixed.fastq  SRR29136213_2_fixed.fastq
+# contigs (>= 0 bp)         1005965                    1005965                  
+# contigs (>= 1000 bp)      0                          0                        
+# contigs (>= 5000 bp)      0                          0                        
+# contigs (>= 10000 bp)     0                          0                        
+# contigs (>= 25000 bp)     0                          0                        
+# contigs (>= 50000 bp)     0                          0                        
+Total length (>= 0 bp)      74786531                   74788857                 
+Total length (>= 1000 bp)   0                          0                        
+Total length (>= 5000 bp)   0                          0                        
+Total length (>= 10000 bp)  0                          0                        
+Total length (>= 25000 bp)  0                          0                        
+Total length (>= 50000 bp)  0                          0                        
+# contigs                   1005965                    1005965                  
+Largest contig              76                         76                       
+Total length                74786531                   74788857                 
+GC (%)                      38.54                      38.50                    
+N50                         76                         76                       
+N90                         74                         74                       
+auN                         74.8                       74.8                     
+L50                         492017                     492032                   
+L90                         888972                     888996                   
+# N's per 100 kbp           19.03                      19.00                    
